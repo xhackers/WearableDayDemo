@@ -1,0 +1,11 @@
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\bin\Debug\EightBall.Forms.dll
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\bin\Debug\EightBall.Forms.pdb
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\bin\Debug\EightBall.PCL.dll
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\bin\Debug\Xamarin.Forms.Core.dll
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\bin\Debug\EightBall.PCL.pdb
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\bin\Debug\Xamarin.Forms.Core.xml
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\obj\Debug\EightBall.Forms.csprojResolveAssemblyReference.cache
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\obj\Debug\EightBall.Forms.dll
+D:\xam-samples\EightBall\EightBall.Forms\EightBall.Forms\obj\Debug\EightBall.Forms.pdb

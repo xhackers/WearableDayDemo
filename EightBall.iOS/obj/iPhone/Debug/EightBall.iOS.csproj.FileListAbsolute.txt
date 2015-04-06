@@ -1,0 +1,14 @@
+D:\xam-samples\EightBall\EightBall.iOS\bin\iPhone\Debug\EightBalliOS.exe
+D:\xam-samples\EightBall\EightBall.iOS\bin\iPhone\Debug\EightBalliOS.pdb
+D:\xam-samples\EightBall\EightBall.iOS\bin\iPhone\Debug\EightBall.PCL.dll
+D:\xam-samples\EightBall\EightBall.iOS\bin\iPhone\Debug\EightBall.PCL.pdb
+D:\xam-samples\EightBall\EightBall.iOS\obj\iPhone\Debug\ibtool\MainStoryboard_iPad.storyboardc\BYZ-38-t0r-view-8bC-Xf-vdC.nib
+D:\xam-samples\EightBall\EightBall.iOS\obj\iPhone\Debug\ibtool\MainStoryboard_iPad.storyboardc\Info.plist
+D:\xam-samples\EightBall\EightBall.iOS\obj\iPhone\Debug\ibtool\MainStoryboard_iPad.storyboardc\UIViewController-BYZ-38-t0r.nib
+D:\xam-samples\EightBall\EightBall.iOS\obj\iPhone\Debug\ibtool\MainStoryboard_iPhone.storyboardc\Info.plist
+D:\xam-samples\EightBall\EightBall.iOS\obj\iPhone\Debug\ibtool\MainStoryboard_iPhone.storyboardc\UIViewController-vXZ-lx-hvc.nib
+D:\xam-samples\EightBall\EightBall.iOS\obj\iPhone\Debug\ibtool\MainStoryboard_iPhone.storyboardc\vXZ-lx-hvc-view-kh9-bI-dsS.nib
+D:\xam-samples\EightBall\EightBall.iOS\obj\iPhone\Debug\Default-568h@2x.png
+D:\xam-samples\EightBall\EightBall.iOS\obj\iPhone\Debug\EightBall.iOS.csprojResolveAssemblyReference.cache
+D:\xam-samples\EightBall\EightBall.iOS\obj\iPhone\Debug\EightBalliOS.exe
+D:\xam-samples\EightBall\EightBall.iOS\obj\iPhone\Debug\EightBalliOS.pdb

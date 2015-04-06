@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Thanks">Thanks</string>
+  <string name="Predict">Give me a prediction</string>
+  <string name="ApplicationName">Eight Ball</string>
+  <string name="Prediction"></string>
+  <string name="LastPrediction"></string>
+</resources>

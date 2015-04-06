@@ -1,0 +1,4 @@
+D:\xam-samples\EightBall\EightBall.PCL\bin\Debug\EightBall.PCL.dll
+D:\xam-samples\EightBall\EightBall.PCL\bin\Debug\EightBall.PCL.pdb
+D:\xam-samples\EightBall\EightBall.PCL\obj\Debug\EightBall.PCL.dll
+D:\xam-samples\EightBall\EightBall.PCL\obj\Debug\EightBall.PCL.pdb
