@@ -1,8 +1,9 @@
-﻿<Properties StartupItem="EightBall.Droid\EightBall.Droid.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_14" />
+﻿<Properties StartupItem="EightBall.AndroidWear/EightBall.AndroidWear.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.round" />
   <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Classic.AndroidWear.EightBall.AndroidWear AndroidDesignerPreferredDevice="Nexus 4" />
 </Properties>

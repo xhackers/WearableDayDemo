@@ -109,14 +109,14 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EightBall.PCL\EightBall.PCL.csproj">
-      <Project>{517441cc-4f18-4f6e-9e69-b09732865873}</Project>
+      <Project>{517441CC-4F18-4F6E-9E69-B09732865873}</Project>
       <Name>EightBall.PCL</Name>
     </ProjectReference>
     <ProjectReference Include="..\EightBall.WatchApp\EightBall.WatchApp.WKExtension\EightBall.WatchApp.WKExtension.csproj">
-      <Project>{7d1abce2-88a1-424c-a0a9-3b01966142b8}</Project>
+      <Project>{7D1ABCE2-88A1-424C-A0A9-3B01966142B8}</Project>
       <Name>EightBall.WatchApp.WKExtension</Name>
-      <IsAppExtension>true</IsAppExtension>
-      <IsWatchApp>false</IsWatchApp>
+      <IsAppExtension>True</IsAppExtension>
+      <IsWatchApp>False</IsWatchApp>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />

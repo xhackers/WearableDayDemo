@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello_rect">Get Prediction</string>
+	<string name="hello_round">Get Prediction</string>
+	<string name="app_name">EightBall.AndroidWear</string>
+</resources>

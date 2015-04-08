@@ -2,6 +2,8 @@ Eight ball
 ----------
 This is a demo app built for Wearables Day at XHackers event
 
+Sample covers Xamarin Classic App, Xamarin Forms, Apple Watch and Android Wear
+
 Story
 -----
 Eight Ball [ http://www.amazon.com/Mattel-30188-Magic-8-Ball/dp/B00001ZWV7 ] is a fun toy. You think of a question and shake the eight bll and it gives a random answer like "Yes definitely", "Ask again later", "My reply is no".
@@ -24,6 +26,4 @@ Solution
 14. Create two labels and a button like before in WatchKit Storyboard. Notice that Actions and Outlets are created in interfaceController file in corresponding WatchKit Extension project.
 15. Make iOS project as start up project and deploy to simulator. This wil deploy the watchkitapp to watch simulator.
 16. Make WatchKit Extension as start up project and run the solution. You will now see the app running in Watch simulator. [Ref 5.png]
-
-
-
+17. Create an Android Wear project. Add reference to PCL project and Create two labels and a button and wire the events. [Ref 6.png and 7.png]
